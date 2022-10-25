@@ -4,4 +4,4 @@ O Git Bash é um terminal para otimizar o uso do git
 o Git tem como código fonte Markdown (Link disponivel no README.md)
 
 É utilizado para publicar e compartilhar códigos para outras pessoas verem e poderem complementar o código postado la,
-não necessáriamente será apenas códigos de programação
+não necessáriamente será apenas códigos de programação.
