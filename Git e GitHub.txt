@@ -1,5 +1,5 @@
 Link para download do Git - https://gitforwindows.org/
-O Git Bash é um terminal para otimizar o uso do git
+O Git Bash é um terminal para otimizar o uso do git.
 
 o Git tem como código fonte Markdown (Link disponivel no README.md).
 
