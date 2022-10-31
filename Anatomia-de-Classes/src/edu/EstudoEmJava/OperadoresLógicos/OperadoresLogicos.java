@@ -1,7 +1,9 @@
 package edu.EstudoEmJava.OperadoresLógicos;
 
 public class OperadoresLogicos {
-    public static void main(String[] args){
+    
+         
+        /*
         //Operador de Igualdade "=":
         String meuNome = "Pedro Guilherme";
         int numero = 120;
@@ -46,27 +48,24 @@ public class OperadoresLogicos {
         String resultado1 = a==b ? "verdadeiro" : "falso";
         System.out.println(resultado1);
 
-        /*Exemplo de uma condicional  utilizando estrutura IF ELSE
+        Exemplo de uma condicional  utilizando estrutura IF ELSE
         if (a==b)
             resultado1 = "verdadeiro";
         else
             resultado1 = "falso";
-        */
+        
 
-        /*Operadores Relacionais:
+        Operadores Relacionais:
         ==, Igual
         !=, Diferente de
         >, Maior que
         >=, Maior Igual
         <, Menor que
         <= Menor Igual
-        */
+        
 
-        /*Operadores Lógicos
+        Operadores Lógicos
         && Operador Lógico "E"
         || Operador Lógico "OU"
-         */
-
-    }
-
+    */
 }
